@@ -1,6 +1,10 @@
-# LSE and LST Calculation - Class of Thermal Remote Sensing - `Dr. Kiavarz`
+# LSE and LST Calculation Using Single Channel and SplitWindow + Urban Heat Island Classification
+
+Class of Thermal Remote Sensing - `Dr. Majid Kiavarz`
+
 by: `Moien Rangzan` moienrangzan@gmail.com
 
+---
 
 ```python
 from google.colab import drive
